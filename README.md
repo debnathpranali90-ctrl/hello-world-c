@@ -1,7 +1,5 @@
 # hello-world-c
-Well...this is my first code in c 
-# Hello World in C
-
+Well...this is my first code in c .
 This is a simple C program that prints "Hello, World!".
 
 ## How to compile
